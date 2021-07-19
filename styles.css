@@ -11,3 +11,18 @@
   color: tomato;
   background-color: teal;
 }
+
+header {
+  display: flex;
+  justify-content: center;
+}
+
+main {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}
+
+#load_more {
+  margin: auto;
+}

@@ -1,0 +1,23 @@
+{
+  "name": "js_lessons",
+  "version": "1.0.0",
+  "description": "Praktika JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NikOroferov/js_lessons.git"
+  },
+  "keywords": [],
+  "author": "Nick Oroferov <nik.oroferov@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NikOroferov/js_lessons/issues"
+  },
+  "homepage": "https://github.com/NikOroferov/js_lessons#readme",
+  "dependencies": {
+    "pexels": "^1.2.1"
+  }
+}
